@@ -1,0 +1,215 @@
+[
+  {
+    "Id": "01JSBXYXBJVJQQSX5RBH2N036E",
+    "Authors": "",
+    "Year": 0,
+    "Title": "LLM in Cybersecurity",
+    "DOI": "",
+    "Link": "",
+    "Abstract": "This paper discusses how large language models are used to detect cybersecurity threats.",
+    "ProjectId": "01JSBXYXB8HT9J8TBZESPQV8HT",
+    "MustRead": true,
+    "ArticleKeySemantics": [
+      {
+        "ArticleId": "01JSBXYXBJVJQQSX5RBH2N036E",
+        "KeySemanticIndex": 0,
+        "Type": "topic",
+        "Value": "Cybersecurity"
+      },
+      {
+        "ArticleId": "01JSBXYXBJVJQQSX5RBH2N036E",
+        "KeySemanticIndex": 1,
+        "Type": "topic",
+        "Value": "Large Language Models"
+      },
+      {
+        "ArticleId": "01JSBXYXBJVJQQSX5RBH2N036E",
+        "KeySemanticIndex": 2,
+        "Type": "keyword",
+        "Value": "LLM"
+      },
+      {
+        "ArticleId": "01JSBXYXBJVJQQSX5RBH2N036E",
+        "KeySemanticIndex": 3,
+        "Type": "keyword",
+        "Value": "Cybersecurity threats"
+      }
+    ],
+    "ArticleRelevances": [
+      {
+        "ArticleId": "01JSBXYXBJVJQQSX5RBH2N036E",
+        "EstimateRelevanceJobId": "01JSBY09XEDQ7N2ZQEH2PXE6XB",
+        "RelevanceIndex": 0,
+        "Question": "",
+        "RelevanceScore": 1,
+        "ContributionScore": 1,
+        "IsRelevant": true,
+        "IsContributing": true,
+        "RelevanceReason": "The abstract directly addresses the question of how LLMs are used in cybersecurity.",
+        "ContributionReason": "The abstract provides a clear and concise overview of the topic, making it highly relevant and contributing to answering the question.",
+        "CreatedAt": "2025-04-21T10:23:50.195495+00:00"
+      },
+      {
+        "ArticleId": "01JSBXYXBJVJQQSX5RBH2N036E",
+        "EstimateRelevanceJobId": "01JSBY09XEDQ7N2ZQEH2PXE6XB",
+        "RelevanceIndex": 1,
+        "Question": "",
+        "RelevanceScore": 0.95,
+        "ContributionScore": 0.85,
+        "IsRelevant": true,
+        "IsContributing": false,
+        "RelevanceReason": "The abstract discusses the use of LLMs in detecting cybersecurity threats, which is directly related to the question about the risks of using LLMs in secure environments.",
+        "ContributionReason": "Although the abstract does not explicitly address the risks of using LLMs in secure environments, it provides relevant information on how LLMs are used in cybersecurity, which can be useful for understanding potential risks.",
+        "CreatedAt": "2025-04-21T10:23:50.195868+00:00"
+      }
+    ]
+  },
+  {
+    "Id": "01JSBXYXBK36NGMB3X43P32178",
+    "Authors": "",
+    "Year": 0,
+    "Title": "AI for Medicine",
+    "DOI": "",
+    "Link": "",
+    "Abstract": "AI is being used to enhance diagnosis and treatment workflows.",
+    "ProjectId": "01JSBXYXB8HT9J8TBZESPQV8HT",
+    "MustRead": false,
+    "ArticleKeySemantics": [
+      {
+        "ArticleId": "01JSBXYXBK36NGMB3X43P32178",
+        "KeySemanticIndex": 0,
+        "Type": "topic",
+        "Value": "Medicine"
+      },
+      {
+        "ArticleId": "01JSBXYXBK36NGMB3X43P32178",
+        "KeySemanticIndex": 1,
+        "Type": "topic",
+        "Value": "Artificial Intelligence"
+      },
+      {
+        "ArticleId": "01JSBXYXBK36NGMB3X43P32178",
+        "KeySemanticIndex": 2,
+        "Type": "keyword",
+        "Value": "AI"
+      },
+      {
+        "ArticleId": "01JSBXYXBK36NGMB3X43P32178",
+        "KeySemanticIndex": 3,
+        "Type": "keyword",
+        "Value": "Diagnosis"
+      },
+      {
+        "ArticleId": "01JSBXYXBK36NGMB3X43P32178",
+        "KeySemanticIndex": 4,
+        "Type": "keyword",
+        "Value": "Treatment"
+      }
+    ],
+    "ArticleRelevances": [
+      {
+        "ArticleId": "01JSBXYXBK36NGMB3X43P32178",
+        "EstimateRelevanceJobId": "01JSBY1CSH15GZQA6D48DBMK35",
+        "RelevanceIndex": 0,
+        "Question": "",
+        "RelevanceScore": 0.1,
+        "ContributionScore": 0.1,
+        "IsRelevant": false,
+        "IsContributing": false,
+        "RelevanceReason": "The abstract is about AI in medicine, which has no connection to LLMs used in cybersecurity.",
+        "ContributionReason": "The abstract does not provide any information that contributes to the question.",
+        "CreatedAt": "2025-04-21T10:24:25.908488+00:00"
+      },
+      {
+        "ArticleId": "01JSBXYXBK36NGMB3X43P32178",
+        "EstimateRelevanceJobId": "01JSBY1CSH15GZQA6D48DBMK35",
+        "RelevanceIndex": 1,
+        "Question": "What are the risks of using LLMs in secure environments?",
+        "RelevanceScore": 0.2,
+        "ContributionScore": 0.1,
+        "IsRelevant": false,
+        "IsContributing": false,
+        "RelevanceReason": "The abstract is about AI for medicine and does not mention LLMs or secure environments.",
+        "ContributionReason": "The abstract does not provide any information that can be used to answer the question about the risks of using LLMs in secure environments.",
+        "CreatedAt": "2025-04-21T10:24:25.908496+00:00"
+      }
+    ]
+  },
+  {
+    "Id": "01JSBXYXBKKSE9EXG3MQP41RPY",
+    "Authors": "",
+    "Year": 0,
+    "Title": "Privacy \u0026 LLMs",
+    "DOI": "",
+    "Link": "",
+    "Abstract": "This study explores the privacy concerns when deploying LLMs in enterprise environments.",
+    "ProjectId": "01JSBXYXB8HT9J8TBZESPQV8HT",
+    "MustRead": true,
+    "ArticleKeySemantics": [
+      {
+        "ArticleId": "01JSBXYXBKKSE9EXG3MQP41RPY",
+        "KeySemanticIndex": 0,
+        "Type": "topic",
+        "Value": "Privacy"
+      },
+      {
+        "ArticleId": "01JSBXYXBKKSE9EXG3MQP41RPY",
+        "KeySemanticIndex": 1,
+        "Type": "topic",
+        "Value": "LLMs"
+      },
+      {
+        "ArticleId": "01JSBXYXBKKSE9EXG3MQP41RPY",
+        "KeySemanticIndex": 2,
+        "Type": "topic",
+        "Value": "Enterprise Environments"
+      },
+      {
+        "ArticleId": "01JSBXYXBKKSE9EXG3MQP41RPY",
+        "KeySemanticIndex": 3,
+        "Type": "keyword",
+        "Value": "Privacy"
+      },
+      {
+        "ArticleId": "01JSBXYXBKKSE9EXG3MQP41RPY",
+        "KeySemanticIndex": 4,
+        "Type": "keyword",
+        "Value": "Large Language Models"
+      },
+      {
+        "ArticleId": "01JSBXYXBKKSE9EXG3MQP41RPY",
+        "KeySemanticIndex": 5,
+        "Type": "keyword",
+        "Value": "Enterprise"
+      }
+    ],
+    "ArticleRelevances": [
+      {
+        "ArticleId": "01JSBXYXBKKSE9EXG3MQP41RPY",
+        "EstimateRelevanceJobId": "01JSBY2HN3J7CSJEJSRHDP0MKV",
+        "RelevanceIndex": 0,
+        "Question": "",
+        "RelevanceScore": 0.85,
+        "ContributionScore": 0.75,
+        "IsRelevant": false,
+        "IsContributing": false,
+        "RelevanceReason": "The abstract is relevant to the question because it discusses LLMs in an enterprise environment, which is related to their potential use in cybersecurity.",
+        "ContributionReason": "Although the abstract does not directly answer the question about how LLMs are used in cybersecurity, it provides context and insights into the privacy concerns surrounding LLMs, which could be useful for understanding the broader landscape of LLM applications.",
+        "CreatedAt": "2025-04-21T10:25:03.651891+00:00"
+      },
+      {
+        "ArticleId": "01JSBXYXBKKSE9EXG3MQP41RPY",
+        "EstimateRelevanceJobId": "01JSBY2HN3J7CSJEJSRHDP0MKV",
+        "RelevanceIndex": 1,
+        "Question": "",
+        "RelevanceScore": 0.95,
+        "ContributionScore": 0.85,
+        "IsRelevant": true,
+        "IsContributing": true,
+        "RelevanceReason": "The abstract is directly related to the question about the risks of using LLMs in secure environments, as it explores privacy concerns when deploying LLMs in enterprise environments.",
+        "ContributionReason": "Although the abstract does not explicitly address the risks of using LLMs in secure environments, it provides relevant information about privacy concerns, which is a crucial aspect of understanding the potential risks.",
+        "CreatedAt": "2025-04-21T10:25:03.651893+00:00"
+      }
+    ]
+  }
+]
